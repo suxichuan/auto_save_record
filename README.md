@@ -5,8 +5,6 @@
 
 当前版本是免费版本
 
-另有更稳定、更可靠、更强大的付费版本，点这里了解。[付费版本README](https://github.com/Mocha-L/WechatPCAPI/blob/master/README-BO.md)
-
 **如果帮到你，帮我点个star。**
 遇到问题可以提Issues，或关注公众号“燕幕自安”联系我。
 
@@ -142,13 +140,3 @@ python 3.7.4 不是该版本可能会报错dll load 错误
 ## 联系我
 
 关注微信公众号“燕幕自安”，即可获取我的联系方式。
-
-## 赞赏我
-
-支持作者继续更新，请我喝杯咖啡
-
-<img src="https://github.com/Mocha-L/findtheone/blob/master/pic/ali.png" width="230px" /><img src="https://github.com/Mocha-L/findtheone/blob/master/pic/wechat.png" width="230px" />
-
-## 声明
-
-**本项目仅供技术研究，请勿用于非法用途，如有任何人凭此做何非法事情，均于作者无关，特此声明。**
