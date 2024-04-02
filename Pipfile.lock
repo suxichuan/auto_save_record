@@ -1,0 +1,29 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "9470f89bdc8404c1b27da09fb314837f8ac3dfbaafed4b837c37d6aa4e871039"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.7"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "chinese-calendar": {
+            "hashes": [
+                "sha256:09b90fabe53ace37648ebfba25c662843c6a29fc1cf8c8fa5b7234f8245bb58e",
+                "sha256:86557866a92fa644a9a44bb1b1f8736ed559b9cf632a8647cfb76f04b72bb7fd"
+            ],
+            "index": "pypi",
+            "version": "==1.9.0"
+        }
+    },
+    "develop": {}
+}
